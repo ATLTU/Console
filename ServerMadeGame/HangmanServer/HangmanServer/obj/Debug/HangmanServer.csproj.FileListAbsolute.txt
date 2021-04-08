@@ -1,0 +1,14 @@
+C:\Users\Mikkel Nielsen-Man\source\repos\HangmanServer\HangmanServer\bin\Debug\HangmanServer.exe.config
+C:\Users\Mikkel Nielsen-Man\source\repos\HangmanServer\HangmanServer\bin\Debug\HangmanServer.exe
+C:\Users\Mikkel Nielsen-Man\source\repos\HangmanServer\HangmanServer\bin\Debug\HangmanServer.pdb
+C:\Users\Mikkel Nielsen-Man\source\repos\HangmanServer\HangmanServer\obj\Debug\HangmanServer.csprojAssemblyReference.cache
+C:\Users\Mikkel Nielsen-Man\source\repos\HangmanServer\HangmanServer\obj\Debug\HangmanServer.csproj.CoreCompileInputs.cache
+C:\Users\Mikkel Nielsen-Man\source\repos\HangmanServer\HangmanServer\obj\Debug\HangmanServer.exe
+C:\Users\Mikkel Nielsen-Man\source\repos\HangmanServer\HangmanServer\obj\Debug\HangmanServer.pdb
+C:\Users\atgam\OneDrive\New folder\Stalinis kompiuteris\Games I made\Server\HangmanServer\HangmanServer\bin\Debug\HangmanServer.exe.config
+C:\Users\atgam\OneDrive\New folder\Stalinis kompiuteris\Games I made\Server\HangmanServer\HangmanServer\bin\Debug\HangmanServer.exe
+C:\Users\atgam\OneDrive\New folder\Stalinis kompiuteris\Games I made\Server\HangmanServer\HangmanServer\bin\Debug\HangmanServer.pdb
+C:\Users\atgam\OneDrive\New folder\Stalinis kompiuteris\Games I made\Server\HangmanServer\HangmanServer\obj\Debug\HangmanServer.csprojAssemblyReference.cache
+C:\Users\atgam\OneDrive\New folder\Stalinis kompiuteris\Games I made\Server\HangmanServer\HangmanServer\obj\Debug\HangmanServer.csproj.CoreCompileInputs.cache
+C:\Users\atgam\OneDrive\New folder\Stalinis kompiuteris\Games I made\Server\HangmanServer\HangmanServer\obj\Debug\HangmanServer.exe
+C:\Users\atgam\OneDrive\New folder\Stalinis kompiuteris\Games I made\Server\HangmanServer\HangmanServer\obj\Debug\HangmanServer.pdb

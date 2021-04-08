@@ -1,0 +1,7 @@
+C:\Users\atgam\OneDrive\New folder\Stalinis kompiuteris\Console\Console3Games\Console3Games\bin\Debug\Console3Games.exe.config
+C:\Users\atgam\OneDrive\New folder\Stalinis kompiuteris\Console\Console3Games\Console3Games\bin\Debug\Console3Games.exe
+C:\Users\atgam\OneDrive\New folder\Stalinis kompiuteris\Console\Console3Games\Console3Games\bin\Debug\Console3Games.pdb
+C:\Users\atgam\OneDrive\New folder\Stalinis kompiuteris\Console\Console3Games\Console3Games\obj\Debug\Console3Games.csprojAssemblyReference.cache
+C:\Users\atgam\OneDrive\New folder\Stalinis kompiuteris\Console\Console3Games\Console3Games\obj\Debug\Console3Games.csproj.CoreCompileInputs.cache
+C:\Users\atgam\OneDrive\New folder\Stalinis kompiuteris\Console\Console3Games\Console3Games\obj\Debug\Console3Games.exe
+C:\Users\atgam\OneDrive\New folder\Stalinis kompiuteris\Console\Console3Games\Console3Games\obj\Debug\Console3Games.pdb
